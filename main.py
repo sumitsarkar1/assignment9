@@ -47,7 +47,7 @@ def getTrainLoader(args):
     
 def getTestLoader(args):
     test_transforms = sumitEVA7.utils2.getTestTransforms()
-    testset = Cifar10Dataset(root='../data', train=False,download=False, transform=test_transforms) 
+    testset = Cifar10Dataset(root='../data', train=False,download=True, transform=test_transforms) 
     testloader = torch.utils.data.DataLoader(testset, batch_size=args.batch_size,shuffle=True, **args.kwargs)
     return testloader
 
