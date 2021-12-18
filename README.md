@@ -4,6 +4,7 @@
 ### 1. Model to be used : [custom Resnet18](https://github.com/sumitsarkar1/sumitEVA7/tree/main/models) ###
 ### 2. Number of epochs to be used: 24 ###
 ### 3. Learning Rate (LR) Policy : One Cycle LR with max LR at 5th epoch ###
+### 4. Data Augmentation to be used : Random Crop, Horizontal Flip, CutOut
 ### 4. Test Accuracy to achieve : 90% ###
 
 ## Final Test Accuracy achieved : 93%+ ##
