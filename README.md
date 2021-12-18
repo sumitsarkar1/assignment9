@@ -8,7 +8,7 @@
 ### 4. Test Accuracy to achieve : 90% ###
 
 ## Final Test Accuracy achieved : 93%+ ##
-## Training/Testing Loss and Accuracy , Variation of LR with eochs
+## Training/Testing Loss and Accuracy , Variation of LR with epochs
 ![alt text](https://github.com/sumitsarkar1/assignment9/blob/main/plot.jpg)
 
 ## Missclassified Images and their gradcam analysis
