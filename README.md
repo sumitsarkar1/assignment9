@@ -1,4 +1,4 @@
-# Create a Custom Resnet Model and train for 90% Test accuracy #
+# Create a Custom Resnet Model and train for 90% Test accuracy on Cifar10 Dataset #
 
 ## Design Constraints ##
 ### 1. Model to be used : [custom Resnet18](https://github.com/sumitsarkar1/sumitEVA7/tree/main/models) ###
